@@ -5,13 +5,14 @@ title: "Resume"
 # My Resume
 
 ## Education
-- **[Degree, e.g., Bachelor of Science in Your Major]**, [Your University]  
-  *Expected Graduation: [Year]*
+- **[Degree, e.g., Bachelor of Science in Mathematics (Statistics Emphasis) with a Minor in Computer Science]**, California State University Channel Islands  
+  *Expected Graduation: 2025*
 
 ## Work Experience
-- **[Job/Internship Title]**, [Company Name]  
-  *[Dates of Employment]*  
-  Description of your role and responsibilities.
+- **Lead Tutor at The Learning Resource Center**, CSU Channel Islands  
+  *January 2024 - Present*  
+  Tutor different Mathematics
+  
 
 ## Projects
 - **[Project Name]**  
