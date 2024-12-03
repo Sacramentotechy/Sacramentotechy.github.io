@@ -1,0 +1,18 @@
+---
+title: "Resume"
+---
+
+# My Resume
+
+## Education
+- **[Degree, e.g., Bachelor of Science in Your Major]**, [Your University]  
+  *Expected Graduation: [Year]*
+
+## Work Experience
+- **[Job/Internship Title]**, [Company Name]  
+  *[Dates of Employment]*  
+  Description of your role and responsibilities.
+
+## Projects
+- **[Project Name]**  
+  Brief description of the project, tools/technologies used, and outcomes.

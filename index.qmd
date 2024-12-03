@@ -1,0 +1,11 @@
+---
+title: "Welcome"
+---
+
+# Hi, I'm John! 👋
+
+I am majoring in Mathematics at California State University Channel Islands. I am passionate about my studies and research projects.
+
+![My Picture](images/me.jpg){width=200px}
+
+Feel free to explore my website to learn more about me, my background, and my professional experiences.

@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "[Degree, e.g., Bachelor of Science in Your Major], [Your University]\nExpected Graduation: [Year]\n\n\n\n\n\n[Job/Internship Title], [Company Name]\n[Dates of Employment]\nDescription of your role and responsibilities.\n\n\n\n\n\n[Project Name]\nBrief description of the project, tools/technologies used, and outcomes."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "[Degree, e.g., Bachelor of Science in Your Major], [Your University]\nExpected Graduation: [Year]"
+  },
+  {
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Resume",
+    "section": "",
+    "text": "[Job/Internship Title], [Company Name]\n[Dates of Employment]\nDescription of your role and responsibilities."
+  },
+  {
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
+    "title": "Resume",
+    "section": "",
+    "text": "[Project Name]\nBrief description of the project, tools/technologies used, and outcomes."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello! I’m [Your Name], a [Your Major] student at [Your University].\n\n\n\nI enjoy [hobby or interest].\nI am passionate about [another interest or field].\nI am currently learning [a skill or technology].\n\nThank you for visiting my site!"
+  },
+  {
+    "objectID": "about.html#a-few-things-about-me",
+    "href": "about.html#a-few-things-about-me",
+    "title": "About Me",
+    "section": "",
+    "text": "I enjoy [hobby or interest].\nI am passionate about [another interest or field].\nI am currently learning [a skill or technology].\n\nThank you for visiting my site!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Hi, I’m John! 👋\nI am majoring in Mathematics at California State University Channel Islands. I am passionate about my studies and research projects.\n\n\n\nMy Picture\n\n\nFeel free to explore my website to learn more about me, my background, and my professional experiences."
+  }
+]

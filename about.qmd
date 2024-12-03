@@ -1,0 +1,14 @@
+---
+title: "About Me"
+---
+
+# About Me
+
+Hello! I'm [Your Name], a [Your Major] student at [Your University].
+
+## A Few Things About Me
+- I enjoy [hobby or interest].
+- I am passionate about [another interest or field].
+- I am currently learning [a skill or technology].
+
+Thank you for visiting my site!
