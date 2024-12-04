@@ -5,15 +5,19 @@ title: "Resume"
 # My Resume
 
 ## Education
-- **[Degree, e.g., Bachelor of Science in Mathematics (Statistics Emphasis) with a Minor in Computer Science]**, California State University Channel Islands  
+- **Bachelor of Science in Mathematics (Statistics Emphasis) with a Minor in Computer Science, California State University Channel Islands**  
   *Expected Graduation: 2025*
+-  **Associate In Science for Transfer Mathematics Degree **
+  *Achieved August 7th, 2022*
+-  **Associate In Arts Genereal Studies: Natural Science or Mathematics**
+  *Achieved August 7th, 2022*
 
 ## Work Experience
-- **Lead Tutor at The Learning Resource Center**, CSU Channel Islands  
+- **Lead Tutor at The Learning Resource Center, CSU Channel Islands**  
   *January 2024 - Present*  
-  Tutor different Mathematics
+  *Tutor: Precalculus, Business Calculus, Calculus I, Calculus II, Calculus III, Discrete Mathematics, Probability and Statistics, Transition To Higher Mathematics*
   
 
 ## Projects
-- **[Project Name]**  
-  Brief description of the project, tools/technologies used, and outcomes.
+- **Topic Modeling**  
+  *We utilize Non-negative Matrix Factorization and Polyaidic Decomposition to reduce the dimensionality of multionic data sets to gain insights into how the data relates to topics related to those data sets*

@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "Dont Forget: Save Render Commit Push!"
 ---
 
 # Hi, I'm John! 👋
